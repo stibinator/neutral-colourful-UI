@@ -2,13 +2,13 @@
   "name": "neutral-colourful-UI",
   "theme": "ui",
   "version": "0.2.0",
-  "description": "A neutral gray UI theme based on the Spacegray theme for Sublime by Gadzhi Kharkharov.",
+  "description": "A neutral grey UI theme based on the Spacegrey theme for Sublime by Gadzhi Kharkharov.",
   "license": "MIT",
   "repository": "https://github.com/stibinator/neutral-colourful-ui",
   "keywords": [
     "ui",
     "theme",
-    "gray",
+    "grey",
     "grey",
     "minimal"
   ],
